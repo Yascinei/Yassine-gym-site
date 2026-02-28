@@ -20,8 +20,8 @@ Perfect for fitness centers, personal trainers, or gyms that want a clean, engag
 - Deployed on **Netlify**
 
 ## 📸 Screenshot
-![Homepage]()  
+![Homepage](Screenshot_2026-02-27-21-48-08-562_com.android.chrome.jpg)  
 
 ## 👨‍💻 Author
-**Yassine Sino**  
+**Yassine Nghima**  
 Web Developer & Designer
